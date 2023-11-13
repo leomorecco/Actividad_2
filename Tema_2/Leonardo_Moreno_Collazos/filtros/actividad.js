@@ -310,8 +310,6 @@ function merge(alphaFirst, alphaSecond) {
     }
     dogHandler.savePixels(pixels, outputPath);
 }
-
-
 /**
  * Programa de prueba
  * NO DEBES MODIFICAR ESTAS LÍNEAS DE CÓDIGO
