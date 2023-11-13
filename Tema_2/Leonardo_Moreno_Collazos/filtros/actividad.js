@@ -3,9 +3,8 @@ const ImageHandler = require('./ImageHandler.js')
 
 let path = 'input/tucan.jpg';
 let handler = new ImageHandler(path);
-
 /**
- * Ejemplo de construccion de una imagen 
+ * Ejemplo de construccion de una imagen
  */
 function ejemplo() {
 
